@@ -1,4 +1,4 @@
-# 3rd NELIREF Data Science and AI Summer School
+# 3rd NELIREF Data Science and AI Summer School 2026
 
 ## Instructor (s)
 
